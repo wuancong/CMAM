@@ -1,0 +1,11 @@
+torch==1.13.1+cu117
+numpy==1.21.5
+scipy==1.6.0
+scikit-learn==1.0.2
+torchvision==0.14.1+cu117
+Pillow==9.0.1
+termcolor==1.1.0
+PyYAML==5.4.1
+yacs==0.1.8
+opencv-python==4.5.5.62
+Cython==0.29.21
