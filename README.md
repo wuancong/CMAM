@@ -18,6 +18,7 @@ The training set contains 7,440 visible images and 13,614 near infrared images. 
 ### SYSU-MM02 dataset download  
 Please send a signed [dataset release agreement](agreement/agreement.pdf) copy to wuanc@mail.sysu.edu.cn.
 If your application is passed, we will send the download link of the dataset.
+The pedestrian captured in "examples" folder of SYSU-MM02 has signed a privacy license to allow the images to be used for scientific research and shown in research papers. The other pedestrians are not allowed to be shown publicly, whose faces are masked to avoid privacy problem.
 
 ## Dependencies
 
